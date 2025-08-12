@@ -92,8 +92,8 @@ button{
 }
 .quote{
     
-    padding-top: 300px;
-    padding-bottom: 300px;
+    padding-top: 200px;
+    padding-bottom: 200px;
     background-color: #E5E7EB;
 
 }
@@ -101,4 +101,33 @@ button{
     font-size: 36px;
     font-family: italic;
     text-align: center;
+}
+.call_action{
+    background-color:#3882f6;
+    color: white;
+    padding: 50px;
+    text-align: center;
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 150px 300px 150px 300px;
+    border-radius: 10px;
+}
+.call_action_button{
+    padding: 10px;
+    border: white solid 2px;
+    border-radius: 4px;
+
+}
+.button{
+    font-size: 16px;
+}
+.call_action_text{
+    text-align: left;
+}
+.footer{
+    background-color: #1F2937;
+    color:white;
+    text-align: center ;
+    padding: 20px;
 }
